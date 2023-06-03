@@ -1,0 +1,2 @@
+# Iinit_parameters_of_6input
+对于机器人领域中少输入，多神经元设置特定的权重初始化
