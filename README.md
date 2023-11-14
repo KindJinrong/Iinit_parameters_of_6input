@@ -13,7 +13,7 @@ $$
 
 Solution1:
 
-均匀分布方差 $\text{Var)(x)=\frac{(a-b)^2}{12}$,$U\sim[a,b]$ 且$a=-b$
+均匀分布方差 $$Var(x)=\frac{(a-b)^2}{12}$$,$U\sim[a,b]$ 且$a=-b$
 
 $${\color{red}nVar(w)=1}，Var(w)=1/n=\frac{(a-b)^2}{12}$$
 
